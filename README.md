@@ -1,4 +1,4 @@
-This is a code for submitted paper "A Novel Evaluation Framework for 15-Minute City Using Satellite Imagery".
+This is a code for submitted paper "A Novel Evaluation Framework for 15-Minute City Using Satellite Imagery" on ACM SIGSPATIAL 2025.
 
 Our approach includes 2-stage model: 
 
